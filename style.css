@@ -1,0 +1,38 @@
+.container{
+    margin:auto;
+    height: 50vh;
+    width: 50vw;
+    border: 2px dotted purple;
+    margin-top: 10%;
+    /*position: absolute;*/
+    /*position: relative;*/
+}
+
+.item{
+   margin: auto;
+    height: 50%;
+    width: 50%;
+    border:2px solid green;
+    position: fixed;
+   
+   /* top:0%;
+    bottom: 0%;
+    left: 0%;
+    right: 0%;*/
+    z-index:-1;
+}
+
+img
+{
+    position:fixed; /*el boton nos va perseguir por toda la pantalla*/
+    width: 5%;
+    right: 5%;
+    top: 70vh;
+    z-index: 2; /*MIentras mas grande el valor, mas adelante se va ver */
+    
+}
+
+p{
+    position: relative;
+    z-index: 1;
+}
