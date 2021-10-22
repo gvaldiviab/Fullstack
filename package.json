@@ -1,0 +1,23 @@
+{
+  "name": "Clase9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gvaldiviab/Fullstack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gvaldiviab/Fullstack/issues"
+  },
+  "homepage": "https://github.com/gvaldiviab/Fullstack#readme",
+  "dependencies": {
+    "sass": "^1.43.3"
+  }
+}
